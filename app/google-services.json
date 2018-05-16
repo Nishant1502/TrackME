@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "168919971959",
+    "firebase_url": "https://trackme-16b95.firebaseio.com",
+    "project_id": "trackme-16b95",
+    "storage_bucket": "trackme-16b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168919971959:android:47a031853a3b6198",
+        "android_client_info": {
+          "package_name": "gpsapp.adminnishant.example.com.trackme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168919971959-vnre975pbjffrg1qrnu6juao2g3qp68a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gpsapp.adminnishant.example.com.trackme",
+            "certificate_hash": "5e736b692807ccdedd146769e8d1056674986107"
+          }
+        },
+        {
+          "client_id": "168919971959-4044dgak5hr1lg2761s4vk9cmhkmh71n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvruFycPwAnMaL2QTshux9V5-KWauLJzc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168919971959-4044dgak5hr1lg2761s4vk9cmhkmh71n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
